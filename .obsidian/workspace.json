@@ -11,12 +11,24 @@
             "id": "20f20b4c0db2fae0",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "每日进步/2025-06-23.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Untitled Diagram.svg"
+              "title": "2025-06-23"
             }
           }
         ]
@@ -184,6 +196,7 @@
   },
   "active": "20f20b4c0db2fae0",
   "lastOpenFiles": [
+    "未命名.canvas",
     "每日进步/2025-06-23.md",
     "Untitled Diagram.svg",
     "每日进步"
