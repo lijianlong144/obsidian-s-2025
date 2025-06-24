@@ -35,10 +35,24 @@
             "id": "1224913b8fa8c687",
             "type": "leaf",
             "state": {
-              "type": "daily-note-editor-view",
-              "state": {},
-              "icon": "daily-note",
-              "title": "Daily Note"
+              "type": "markdown",
+              "state": {
+                "file": "每日进步/2025-06-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-06-24"
             }
           }
         ],
@@ -218,7 +232,7 @@
   "active": "1224913b8fa8c687",
   "lastOpenFiles": [
     "每日进步/2025-06-23.md",
-    "2025-06-24.md",
+    "每日进步/2025-06-24.md",
     "未命名.canvas",
     "Untitled Diagram.svg",
     "每日进步"
