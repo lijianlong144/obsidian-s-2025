@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2025-06-23"
             }
+          },
+          {
+            "id": "1224913b8fa8c687",
+            "type": "leaf",
+            "state": {
+              "type": "daily-note-editor-view",
+              "state": {},
+              "icon": "daily-note",
+              "title": "Daily Note"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +181,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "af157e8276526992",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
         "currentTab": 4
@@ -194,10 +215,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "20f20b4c0db2fae0",
+  "active": "1224913b8fa8c687",
   "lastOpenFiles": [
-    "未命名.canvas",
     "每日进步/2025-06-23.md",
+    "2025-06-24.md",
+    "未命名.canvas",
     "Untitled Diagram.svg",
     "每日进步"
   ]
