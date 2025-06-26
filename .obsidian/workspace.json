@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2025-06-26"
             }
+          },
+          {
+            "id": "fa939f1f05b654ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API/ChatGPT网页转API.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ChatGPT网页转API"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -253,10 +277,11 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "d34e73b9a24b5dc2",
+  "active": "fa939f1f05b654ea",
   "lastOpenFiles": [
-    "L站/好玩的没有做的/赛博别墅-kyc-吃瓜-私人信息.md",
+    "API/ChatGPT网页转API.md",
     "每日进步/2025-06-26.md",
+    "L站/好玩的没有做的/赛博别墅-kyc-吃瓜-私人信息.md",
     "API",
     "L站/好玩的没有做的/WARP-梯子.md",
     "每日进步/2025-06-24.md",
