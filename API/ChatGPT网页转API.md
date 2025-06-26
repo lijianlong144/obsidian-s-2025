@@ -115,3 +115,4 @@ networks:
 
     driver: bridge  # 定义一个桥接网络
 ```
+### chat-share的docker compose 配置文件
