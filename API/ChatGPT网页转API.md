@@ -116,3 +116,37 @@ networks:
     driver: bridge  # 定义一个桥接网络
 ```
 ### chat-share的docker compose 配置文件
+```
+version: '3'
+
+
+services:
+
+  chatshare:
+
+    image: ghcr.io/h88782481/chat-share:latest
+
+    container_name: chat-share
+
+    restart: unless-stopped
+
+    ports:
+
+      - '5100:5100'
+
+    volumes:
+
+      - ./data:/app/data
+
+    environment:
+
+      - TZ=Asia/Shanghai
+
+      - SECRET_KEY=lijianlong1314
+
+      - AUTHORIZATION=sk-8f35873c3d3556b0b0590b8e4b73408c3a124528c80e1c84
+
+      - DOMAIN_CHATGPT=http://20.3.128.110:5005
+```
+
+更多的环境变量，需要自己qu
