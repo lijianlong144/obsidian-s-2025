@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "01dafabcbaa6c3fb",
+        "id": "0cad9d4e641ea4dd",
         "type": "tabs",
         "children": [
           {
-            "id": "20f20b4c0db2fae0",
+            "id": "b2c5745d76cd622c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日进步/2025-06-23.md",
+                "file": "每日进步/2025-06-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,117 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-23"
-            }
-          },
-          {
-            "id": "1224913b8fa8c687",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日进步/2025-06-24.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-24"
-            }
-          },
-          {
-            "id": "d34e73b9a24b5dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日进步/2025-06-26.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-06-26"
-            }
-          },
-          {
-            "id": "fa939f1f05b654ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "API/ChatGPT网页转API.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ChatGPT网页转API"
-            }
-          },
-          {
-            "id": "4fb289728a210648",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "优势整合介绍/AI网站合集.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI网站合集"
-            }
-          },
-          {
-            "id": "27e8001efab69004",
-            "type": "leaf",
-            "state": {
-              "type": "daily-note-editor-view",
-              "state": {},
-              "icon": "daily-note",
-              "title": "Daily Note"
+              "title": "2025-06-28"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -311,10 +204,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "cb7c6ff63a3a1bae",
+  "active": "b2c5745d76cd622c",
   "lastOpenFiles": [
-    "2025-06-28.md",
     "未命名.canvas",
+    "2025-06-28.md",
     "每日进步/2025-06-23.md",
     "每日进步/2025-06-24.md",
     "每日进步/2025-06-26.md",
