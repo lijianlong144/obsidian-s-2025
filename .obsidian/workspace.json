@@ -11,24 +11,12 @@
             "id": "b2c5745d76cd622c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "优势整合介绍/AI网站合集.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py"
               },
               "icon": "lucide-file",
-              "title": "AI网站合集"
+              "title": "hm_02_数据类型转换函数"
             }
           },
           {
@@ -210,11 +198,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "daily-notes-editor:Open Daily Note Editor": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "vscode-editor:新建代码文件": false
     }
   },
   "active": "b2c5745d76cd622c",
   "lastOpenFiles": [
+    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_01_快速体验数据类型转换.py",
     "优势整合介绍/AI网站合集.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/Spider嘀嘟分享.png",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/test100.txt",
