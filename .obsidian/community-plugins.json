@@ -10,5 +10,6 @@
   "heatmap-calendar",
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
-  "note-toolbar"
+  "note-toolbar",
+  "vscode-editor"
 ]
