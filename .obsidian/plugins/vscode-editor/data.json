@@ -10,7 +10,8 @@
     "rs",
     "java",
     "lua",
-    "php"
+    "php",
+    "yml"
   ],
   "folding": true,
   "lineNumbers": true,
