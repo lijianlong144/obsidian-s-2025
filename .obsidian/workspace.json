@@ -178,6 +178,20 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "39a0dfaedf3bec9d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 5
@@ -199,7 +213,8 @@
       "obsidian-git:Open Git source control": false,
       "daily-notes-editor:Open Daily Note Editor": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "vscode-editor:新建代码文件": false
+      "vscode-editor:新建代码文件": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
   "active": "b2c5745d76cd622c",
