@@ -30,6 +30,16 @@
               "icon": "lucide-file",
               "title": "AI网站合集"
             }
+          },
+          {
+            "id": "aa366289fc02244e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ]
       }
@@ -207,13 +217,14 @@
   },
   "active": "b2c5745d76cd622c",
   "lastOpenFiles": [
+    "优势整合介绍/AI网站合集.md",
+    "docker-compose 1.yml",
     "每日进步/2025-06-28.md",
     "未命名.canvas",
     "2025-06-28.md",
     "每日进步/2025-06-23.md",
     "每日进步/2025-06-24.md",
     "每日进步/2025-06-26.md",
-    "优势整合介绍/AI网站合集.md",
     "API/ChatGPT网页转API.md",
     "优势整合介绍",
     "docker-compose.yml",
