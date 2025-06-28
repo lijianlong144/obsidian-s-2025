@@ -11,12 +11,24 @@
             "id": "b2c5745d76cd622c",
             "type": "leaf",
             "state": {
-              "type": "vscode-editor",
+              "type": "markdown",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py"
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "hm_02_数据类型转换函数"
+              "title": "02-Python解释器"
             }
           },
           {
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hm_02_数据类型转换函数 的反向链接列表"
+              "title": "02-Python解释器 的反向链接列表"
             }
           },
           {
@@ -121,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hm_02_数据类型转换函数 的出链列表"
+              "title": "02-Python解释器 的出链列表"
             }
           },
           {
@@ -150,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hm_02_数据类型转换函数 的大纲"
+              "title": "02-Python解释器 的大纲"
             }
           },
           {
@@ -217,8 +229,11 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "932002dbabbb1d3a",
+  "active": "b2c5745d76cd622c",
   "lastOpenFiles": [
+    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/01-Python简介.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/01-Python简介.pdf",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_01_快速体验数据类型转换.py",
     "优势整合介绍/AI网站合集.md",
@@ -230,8 +245,6 @@
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_08_finally.py",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_07_else.py",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_06_捕获所有异常.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_04_捕获多个指定异常.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_03_捕获指定异常.py",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/08-模块_包_异常/02-模块_包.assets/image-20190305175727272.png",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/08-模块_包_异常/01-异常.assets/image-20190305154200725.png",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/02-面向对象-继承.assets/1.png",
@@ -264,7 +277,6 @@
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/08-转换数据类型(1).md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/07-输入.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/06-输出.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/05-变量.md",
     "未命名.canvas"
   ]
 }
