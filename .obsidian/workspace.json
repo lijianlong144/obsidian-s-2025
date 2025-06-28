@@ -201,7 +201,8 @@
       "obsidian-git:Open Git source control": false,
       "daily-notes-editor:Open Daily Note Editor": false,
       "obsidian-raindrop-highlights:Sync your Raindrop bookmarks": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "b2c5745d76cd622c",
