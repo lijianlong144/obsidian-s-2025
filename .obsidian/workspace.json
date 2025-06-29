@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "02-Python解释器"
+              "title": "03-PyCharm"
             }
           },
           {
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02-Python解释器 的反向链接列表"
+              "title": "03-PyCharm 的反向链接列表"
             }
           },
           {
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02-Python解释器 的出链列表"
+              "title": "03-PyCharm 的出链列表"
             }
           },
           {
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02-Python解释器 的大纲"
+              "title": "03-PyCharm 的大纲"
             }
           },
           {
@@ -231,9 +231,9 @@
   },
   "active": "b2c5745d76cd622c",
   "lastOpenFiles": [
+    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/01-Python简介.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/01-Python简介.pdf",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py",
     "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_01_快速体验数据类型转换.py",
     "优势整合介绍/AI网站合集.md",
