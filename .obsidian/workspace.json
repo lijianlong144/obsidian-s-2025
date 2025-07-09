@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日进步/2025-07-09.md",
+                "file": "每日进步/2025-06-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-07-09"
+              "title": "2025-06-30"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日进步/2025-07-09.md",
+                "file": "每日进步/2025-06-30.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-07-09 的大纲"
+              "title": "2025-06-30 的大纲"
             }
           },
           {
@@ -269,12 +269,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ba1695162281209",
+  "active": "932002dbabbb1d3a",
   "lastOpenFiles": [
-    "优势整合介绍/软件or网站.md",
+    "每日进步/2025-06-23.md",
+    "存储/Pasted image 20250709174201.png",
+    "每日进步/6月",
+    "API/ChatGPT网页转API.md",
     "每日进步/2025-07-09.md",
+    "优势整合介绍/软件or网站.md",
     "优势整合介绍/AI网站合集.md",
-    "Pasted image 20250709174201.png",
     "每日进步/2025-07-07.md",
     "每日进步/2025-07-02.md",
     "每日进步/2025-06-28.md",
@@ -294,7 +297,6 @@
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/16-定义变量 -获取更多资源【www.xfzyk.cn】.mp4",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/15-变量的作用 -获取更多资源【www.xfzyk.cn】.mp4",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/14-注释 -获取更多资源【www.xfzyk.cn】.mp4",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第1节 开发环境安装介绍/05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】.mp4",
     "每日进步/2025-07-01.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
@@ -315,8 +317,6 @@
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/03-面向对象-其他.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/02-面向对象-继承.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/01-面向对象基础.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/05-函数/03-函数加强.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/06-文件操作/文件操作.md",
     "未命名.canvas"
   ]
 }
