@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b2c5745d76cd622c",
+            "id": "aa366289fc02244e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
+                "file": "优势整合介绍/AI网站合集.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,20 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "03-PyCharm"
+              "title": "AI网站合集"
             }
           },
           {
-            "id": "aa366289fc02244e",
+            "id": "5f4a15e55dde33b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "每日进步/2025-07-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2025-07-07"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 378.5069465637207
   },
   "right": {
     "id": "77ae4498404208cc",
@@ -114,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第1节 开发环境安装介绍/05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +139,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "03-PyCharm 的反向链接列表"
+              "title": "05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】 的反向链接列表"
             }
           },
           {
@@ -133,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第1节 开发环境安装介绍/05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】.mp4",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "03-PyCharm 的出链列表"
+              "title": "05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】 的出链列表"
             }
           },
           {
@@ -162,23 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
+                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第1节 开发环境安装介绍/05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】.mp4",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "03-PyCharm 的大纲"
-            }
-          },
-          {
-            "id": "e029a79650577cd5",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】 的大纲"
             }
           },
           {
@@ -187,8 +192,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -205,11 +210,13 @@
               "title": "添加笔记属性"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,64 +226,64 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
-      "daily-notes-editor:Open Daily Note Editor": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "audio-recorder:开始/结束录音": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "vscode-editor:新建代码文件": false,
-      "audio-recorder:开始/结束录音": false,
-      "markdown-importer:打开 Markdown 格式转换器": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "daily-notes-editor:Open Daily Note Editor": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2c5745d76cd622c",
+  "active": "5f4a15e55dde33b9",
   "lastOpenFiles": [
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/01-Python简介.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/01-Python简介.pdf",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_02_数据类型转换函数.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/01-Python基础入门/代码/数据类型转换/hm_01_快速体验数据类型转换.py",
     "优势整合介绍/AI网站合集.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/Spider嘀嘟分享.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/test100.txt",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/test.txt",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_09_异常的传递.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_10_自定义异常.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_08_finally.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_07_else.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/代码/08-异常/hm_06_捕获所有异常.py",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/08-模块_包_异常/02-模块_包.assets/image-20190305175727272.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/08-模块_包_异常/01-异常.assets/image-20190305154200725.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/02-面向对象-继承.assets/1.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/01-面向对象基础.assets/image-20190222154727379.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/01-面向对象基础.assets/image-20190222154356953.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/02-函数二.assets/image-20190220111744493.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/03-函数加强.assets/image-20181229145115121-6066275.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/03-函数加强.assets/1.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/01-函数一.assets/image-20190219155107988.png",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/06-公共操作.assets/06-推导式.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/09-面向对象学员管理系统/面向对象版学员管理系统.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/08-模块_包_异常/02-模块_包.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/08-模块_包_异常/01-异常.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/03-面向对象-其他.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/02-面向对象-继承.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/07-面向对象/01-面向对象基础.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/03-函数加强.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/02-函数二.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/05-函数/01-函数一.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/06-文件操作/文件操作.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/03-流程控制之循环/循环.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/07-推导式.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/06-公共操作.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/05-集合.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/04-字典.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/03-元组.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/02-列表.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/04-数据序列/01-字符串.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/09-运算符.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/08-转换数据类型(1).md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/07-输入.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/06-输出.md",
+    "每日进步/2025-07-07.md",
+    "每日进步/2025-07-02.md",
+    "每日进步/2025-06-28.md",
+    "每日进步/2025-06-28 1.md",
+    "每日进步/2025-06-26.md",
+    "每日进步/2025-06-29.md",
+    "每日进步/2025-06-30.md",
+    "配置/git.md",
+    "配置",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/06-输出.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/05-变量.pdf",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/05-变量.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/20-认识数据类型 -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/19-Debug工具 -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/18-认识bug -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/17-使用变量 -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/16-定义变量 -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/15-变量的作用 -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/14-注释 -获取更多资源【www.xfzyk.cn】.mp4",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第1节 开发环境安装介绍/05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】.mp4",
+    "每日进步/2025-07-01.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.9 项目  批量生成n份不同乙方合同/5.jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.9 项目  批量生成n份不同乙方合同/3.jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.9 项目  批量生成n份不同乙方合同/4.jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.9 项目  批量生成n份不同乙方合同/2.jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.9 项目  批量生成n份不同乙方合同/1.jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.2 写入  用必备利器 docx 把图片和表格写入 Word/3(1).jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.2 写入  用必备利器 docx 把图片和表格写入 Word/2.jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.2 写入  用必备利器 docx 把图片和表格写入 Word/1[优质资源 9ilook.com].jpg",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/08-模块_包_异常/02-模块_包.assets/image-20190305175727272.png",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/08-模块_包_异常/01-异常.assets/image-20190305154200725.png",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/04-数据序列/06-公共操作.assets/06-推导式.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/09-面向对象学员管理系统/面向对象版学员管理系统.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/08-模块_包_异常/02-模块_包.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/08-模块_包_异常/01-异常.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/03-面向对象-其他.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/02-面向对象-继承.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/01-面向对象基础.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/05-函数/03-函数加强.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/06-文件操作/文件操作.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/05-函数/02-函数二.md",
+    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/05-函数/01-函数一.md",
     "未命名.canvas"
   ]
 }
