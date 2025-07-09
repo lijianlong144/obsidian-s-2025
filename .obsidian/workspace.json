@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日进步/2025-06-30.md",
+                "file": "优势整合介绍/AI文生图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-06-30"
+              "title": "AI文生图"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日进步/2025-06-30.md",
+                "file": "优势整合介绍/AI文生图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-06-30 的大纲"
+              "title": "AI文生图 的大纲"
             }
           },
           {
@@ -271,20 +271,22 @@
   },
   "active": "932002dbabbb1d3a",
   "lastOpenFiles": [
-    "每日进步/2025-06-23.md",
+    "每日进步/2025-07-09.md",
+    "优势整合介绍/AI文生图.md",
+    "每日进步/7月/2025-07-07.md",
+    "每日进步/6月/2025-06-30.md",
+    "每日进步/7月",
+    "每日进步/6月/2025-06-23.md",
     "存储/Pasted image 20250709174201.png",
     "每日进步/6月",
     "API/ChatGPT网页转API.md",
-    "每日进步/2025-07-09.md",
     "优势整合介绍/软件or网站.md",
     "优势整合介绍/AI网站合集.md",
-    "每日进步/2025-07-07.md",
-    "每日进步/2025-07-02.md",
-    "每日进步/2025-06-28.md",
+    "每日进步/7月/2025-07-02.md",
+    "每日进步/6月/2025-06-28.md",
     "每日进步/2025-06-28 1.md",
-    "每日进步/2025-06-26.md",
-    "每日进步/2025-06-29.md",
-    "每日进步/2025-06-30.md",
+    "每日进步/6月/2025-06-26.md",
+    "每日进步/6月/2025-06-29.md",
     "配置/git.md",
     "配置",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/06-输出.md",
@@ -296,8 +298,7 @@
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/17-使用变量 -获取更多资源【www.xfzyk.cn】.mp4",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/16-定义变量 -获取更多资源【www.xfzyk.cn】.mp4",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/15-变量的作用 -获取更多资源【www.xfzyk.cn】.mp4",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第2节 变量和数据类型/14-注释 -获取更多资源【www.xfzyk.cn】.mp4",
-    "每日进步/2025-07-01.md",
+    "每日进步/7月/2025-07-01.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/03-PyCharm.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/01-Python基础入门/02-Python解释器.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【3】python中高级课程（推荐）/【14】Python自动化办公/章节02 Word自动化处理，又快又好做文档/配套课件和源码/2.9 项目  批量生成n份不同乙方合同/5.jpg",
@@ -316,7 +317,6 @@
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/08-模块_包_异常/01-异常.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/03-面向对象-其他.md",
     "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/02-面向对象-继承.md",
-    "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/Python1和2编程（课件和源码）/课件/07-面向对象/01-面向对象基础.md",
     "未命名.canvas"
   ]
 }
