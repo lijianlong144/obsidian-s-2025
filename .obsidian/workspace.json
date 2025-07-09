@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "优势整合介绍/软件网站.md",
+                "file": "优势整合介绍/软件or网站.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "软件网站"
+              "title": "软件or网站"
             }
           }
         ],
@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "优势整合介绍/软件网站.md",
+                "file": "优势整合介绍/软件or网站.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件网站 的大纲"
+              "title": "软件or网站 的大纲"
             }
           },
           {
@@ -248,7 +248,7 @@
   "active": "5f4a15e55dde33b9",
   "lastOpenFiles": [
     "每日进步/2025-07-09.md",
-    "优势整合介绍/软件网站.md",
+    "优势整合介绍/软件or网站.md",
     "Pasted image 20250709174201.png",
     "每日进步/2025-07-07.md",
     "优势整合介绍/AI网站合集.md",
