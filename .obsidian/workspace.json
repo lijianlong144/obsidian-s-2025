@@ -177,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZZZZZZZZZSSSSSSSSSSSS/【it课程】项目Python-黑马-新版Python开发就业课，初级+中级+高级项目实战[完结]/【1】Python初级(必学)/【01】Python基础语法（必学）/第1节 开发环境安装介绍/05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】.mp4",
+                "file": "每日进步/2025-07-07.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "05-Python解释器的下载和安装 -获取更多资源【www.xfzyk.cn】 的大纲"
+              "title": "2025-07-07 的大纲"
             }
           },
           {
@@ -192,8 +192,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -209,14 +209,23 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "bbaa5223bb202c05",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,7 +245,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f4a15e55dde33b9",
+  "active": "e0b139e8d124ee4f",
   "lastOpenFiles": [
     "优势整合介绍/AI网站合集.md",
     "每日进步/2025-07-07.md",
