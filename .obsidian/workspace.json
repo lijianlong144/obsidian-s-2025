@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "优势整合介绍/AI模型对比排行榜.md",
+                "file": "优势整合介绍/AI文生图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI模型对比排行榜"
+              "title": "AI文生图"
             }
           }
         ],
@@ -201,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "优势整合介绍/AI模型对比排行榜.md",
+                "file": "优势整合介绍/AI文生图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI模型对比排行榜 的大纲"
+              "title": "AI文生图 的大纲"
             }
           },
           {
@@ -272,8 +272,8 @@
   "active": "7ba1695162281209",
   "lastOpenFiles": [
     "优势整合介绍/AI网站合集.md",
-    "优势整合介绍/AI文生图.md",
     "优势整合介绍/AI模型对比排行榜.md",
+    "优势整合介绍/AI文生图.md",
     "每日进步/2025-07-09.md",
     "每日进步/7月/2025-07-07.md",
     "每日进步/6月/2025-06-30.md",
